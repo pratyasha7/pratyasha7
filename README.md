@@ -11,3 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pratyasha.basak17@gmail.com or prattub7@gmail.com
 - ⚡ Fun fact: There is still so much to gasp
 -->
+
+<div align="center">
+  <img src="https://neofetch-profile.vercel.app/api?username=pratyasha7" alt="Terminal Profile" />
+</div>
