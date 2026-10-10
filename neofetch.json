@@ -1,0 +1,39 @@
+{
+  "sections": [
+    {
+      "title": "pratyasha7@dev-terminal",
+      "fields": [
+        { "key": "OS", "value": "Windows" },
+        { "key": "Kernel", "value": "Frontend Engineer & Data Specialist" },
+        { "key": "Philosophy", "value": "Jack of all trades, master of none — but often better than a master of one" },
+        { "key": "Status", "value": "Learning, iterating, and adapting every day" },
+        { "key": "Uptime", "value": "B.Tech CSE @ Adamas Univ (CGPA: 8.66)" },
+        { "key": "Host", "value": "portfolio-pratyasha.vercel.app" },
+        { "key": "Languages.Code", "value": "Python, JavaScript, TypeScript, C++, SQL, C" },
+        { "key": "Web.Frontend", "value": "React.js, Tailwind CSS, Material-UI, Leaflet" },
+        { "key": "Data.AI", "value": "RAG, GenAI, TF-Lite, Scikit-learn, Pandas, NumPy" },
+        { "key": "Databases.Cloud", "value": "Firebase Firestore, MySQL, REST APIs" },
+        { "key": "Experience", "value": "SWE Intern @ Harit Vikas | Ex-AI Trainee @ Infosys Springboard" },
+        { "key": "Research", "value": "IEEE SMC Intern (Rank 16/80, 21% acceptance)" }
+      ]
+    },
+    {
+      "title": "Featured Projects",
+      "fields": [
+        { "key": "Saaya MRV", "value": "Modular React + Leaflet timeline & NDVI satellite maps" },
+        { "key": "Research OS", "value": "Multi-agent RAG engine with hybrid BM25 + vector search" },
+        { "key": "DART", "value": "Edge acoustic classification (INT8 TFLite) over P2P DHT" }
+      ]
+    },
+    {
+      "title": "Contact & Links",
+      "fields": [
+        { "key": "Email", "value": "prattub7@gmail.com" },
+        { "key": "Portfolio", "value": "https://portfolio-pratyasha.vercel.app" },
+        { "key": "LinkedIn", "value": "linkedin.com/in/pratyasha-basak" },
+        { "key": "GitHub", "value": "github.com/pratyasha7" },
+        { "key": "GitLab (opensource contribution) ", "value": "gitlab.com/prattub7" }
+      ]
+    }
+  ]
+}
