@@ -38,8 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/restapi/009688" alt="REST APIs" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>
-</p>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="REST APIs" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
 
 ### 🛠️ Developer Tools & Version Control
 <p align="left">
