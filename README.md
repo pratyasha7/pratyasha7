@@ -30,7 +30,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>
 </p>
 
@@ -38,8 +37,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="REST APIs / FastAPI" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/restapi/009688" alt="REST APIs" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>
 </p>
 
 ### 🛠️ Developer Tools & Version Control
