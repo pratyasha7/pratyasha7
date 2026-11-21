@@ -1,0 +1,35 @@
+name: Koi
+
+on:
+  schedule:
+    - cron: "5 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/koi.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate koi
+        uses: yalongwastaken/git-koi@v1
+        with:
+          body: white
+
+      - name: Commit koi if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add koi/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update koi"
+            git push
+          fi
