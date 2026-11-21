@@ -2,10 +2,6 @@
   <img src="https://neofetch-profile.vercel.app/api?username=pratyasha7&config=https://raw.githubusercontent.com/pratyasha7/pratyasha7/main/neofetch.json&v=refresh2" alt="Terminal Profile" />
 </div>
 
-<div align="center">
-  <img src="koi/koi.gif" alt="GitHub Koi" width="256" />
-</div>
-
 ## Technical Stack 
 
 ### Languages
@@ -52,3 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 12px; margin-bottom: 8px;"/>
 </p>
+
+<div align="center">
+  <img src="koi/koi.gif" alt="GitHub Koi" width="256" />
+</div>
